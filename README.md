@@ -277,20 +277,7 @@ Ventaja: Solución balanceada
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
+**[Leandro Montero]**
 Data Analyst | Operations Research | Supply Chain Optimization
 📧 tuemail@example.com
-💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-🐙 [GitHub](https://github.com/tu-usuario)
-
-## 📄 Licencia
-
-MIT License - Proyecto de portafolio educativo
-
----
-
-⭐ **¿Tu empresa necesita optimizar rutas logísticas? Conectemos!**
-
-📊 **¿Interesado en reducir costos y huella de carbono?** DM abierto para consultoría.
-
-🚀 **Este proyecto demuestra**: Teoría de Grafos • Optimización Matemática • Geoespacial • Data Viz
+💼 [LinkedIn](https://www.linkedin.com/in/ad-leandro-m/)
