@@ -1,0 +1,10 @@
+{
+  "total_rutas_originales": 84,
+  "total_rutas_optimizadas": 38,
+  "ahorro_diario_usd": 47358.43,
+  "ahorro_anual_usd": 17285826.95,
+  "ahorro_porcentaje": 72.11,
+  "reduccion_co2_diaria_ton": 1800.91,
+  "reduccion_co2_anual_ton": 657332.15,
+  "reduccion_co2_porcentaje": 84.84
+}

@@ -1,0 +1,170 @@
+{
+  "pozos": [
+    {
+      "id": "POZO-01",
+      "lat": 28.436350297118405,
+      "lon": -94.1724999275653,
+      "produccion_bbl_dia": 2329.9848545285126
+    },
+    {
+      "id": "POZO-02",
+      "lat": 28.996646210492592,
+      "lon": -96.95393475845147,
+      "produccion_bbl_dia": 889.9863008405066
+    },
+    {
+      "id": "POZO-03",
+      "lat": 27.6452090304205,
+      "lon": -94.46838348978773,
+      "produccion_bbl_dia": 2002.787529358022
+    },
+    {
+      "id": "POZO-04",
+      "lat": 29.270181444490113,
+      "lon": -97.42795426996469,
+      "produccion_bbl_dia": 2924.7746304049856
+    },
+    {
+      "id": "POZO-05",
+      "lat": 29.581106602001054,
+      "lon": -96.75681311262603,
+      "produccion_bbl_dia": 954.5624180177515
+    },
+    {
+      "id": "POZO-06",
+      "lat": 27.958511274633583,
+      "lon": -96.43515214964162,
+      "produccion_bbl_dia": 1811.8910790805946
+    },
+    {
+      "id": "POZO-07",
+      "lat": 28.57986254660529,
+      "lon": -96.48069800930685,
+      "produccion_bbl_dia": 2029.6322368059487
+    },
+    {
+      "id": "POZO-08",
+      "lat": 27.848734651630103,
+      "lon": -96.47749373012674,
+      "produccion_bbl_dia": 1415.9046082342293
+    },
+    {
+      "id": "POZO-09",
+      "lat": 28.64017496054259,
+      "lon": -94.75188413512446,
+      "produccion_bbl_dia": 999.1844553958994
+    },
+    {
+      "id": "POZO-10",
+      "lat": 28.78558609603403,
+      "lon": -95.42654900898285,
+      "produccion_bbl_dia": 616.1260317999943
+    },
+    {
+      "id": "POZO-11",
+      "lat": 29.018862129753597,
+      "lon": -96.90316556709448,
+      "produccion_bbl_dia": 662.6289824631988
+    },
+    {
+      "id": "POZO-12",
+      "lat": 29.872213843133334,
+      "lon": -94.12028788423905,
+      "produccion_bbl_dia": 2520.993370291153
+    },
+    {
+      "id": "POZO-13",
+      "lat": 28.261534422933426,
+      "lon": -97.15814760097766,
+      "produccion_bbl_dia": 2210.5825662803923
+    },
+    {
+      "id": "POZO-14",
+      "lat": 28.600381234349005,
+      "lon": -97.07286617804327,
+      "produccion_bbl_dia": 1737.9422752781754
+    },
+    {
+      "id": "POZO-15",
+      "lat": 27.585971302788046,
+      "lon": -94.31737859272427,
+      "produccion_bbl_dia": 1146.9499540000425
+    }
+  ],
+  "refinerias": [
+    {
+      "id": "REF-01",
+      "lat": 29.76,
+      "lon": -95.37,
+      "nombre": "Houston Refinery",
+      "capacidad": 450000
+    },
+    {
+      "id": "REF-02",
+      "lat": 29.31,
+      "lon": -94.8,
+      "nombre": "Texas City Refinery",
+      "capacidad": 400000
+    },
+    {
+      "id": "REF-03",
+      "lat": 30.06,
+      "lon": -93.88,
+      "nombre": "Port Arthur Refinery",
+      "capacidad": 350000
+    },
+    {
+      "id": "REF-04",
+      "lat": 28.0,
+      "lon": -97.0,
+      "nombre": "Corpus Christi Refinery",
+      "capacidad": 300000
+    }
+  ],
+  "centros_dist": [
+    {
+      "id": "CD-01",
+      "lat": 32.78,
+      "lon": -96.8,
+      "nombre": "Dallas DC",
+      "demanda_bbl_dia": 50000
+    },
+    {
+      "id": "CD-02",
+      "lat": 29.42,
+      "lon": -98.49,
+      "nombre": "San Antonio DC",
+      "demanda_bbl_dia": 35000
+    },
+    {
+      "id": "CD-03",
+      "lat": 30.27,
+      "lon": -97.74,
+      "nombre": "Austin DC",
+      "demanda_bbl_dia": 40000
+    },
+    {
+      "id": "CD-04",
+      "lat": 31.76,
+      "lon": -106.49,
+      "nombre": "El Paso DC",
+      "demanda_bbl_dia": 25000
+    }
+  ],
+  "puertos": [
+    {
+      "id": "PUERTO-01",
+      "lat": 29.31,
+      "lon": -94.79,
+      "nombre": "Puerto Houston",
+      "capacidad_export": 200000
+    },
+    {
+      "id": "PUERTO-02",
+      "lat": 27.8,
+      "lon": -97.4,
+      "nombre": "Puerto Corpus Christi",
+      "capacidad_export": 150000
+    }
+  ]
+}
